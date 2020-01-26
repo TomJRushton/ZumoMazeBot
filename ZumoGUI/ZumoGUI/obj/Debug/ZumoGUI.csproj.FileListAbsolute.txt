@@ -1,0 +1,9 @@
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.csprojAssemblyReference.cache
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.Form1.resources
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.Properties.Resources.resources
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.csproj.GenerateResource.cache
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\bin\Debug\ZumoGUI.exe.config
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\bin\Debug\ZumoGUI.exe
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\bin\Debug\ZumoGUI.pdb
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.exe
+C:\Users\tomru\source\repos\ZumoGUI\ZumoGUI\obj\Debug\ZumoGUI.pdb
