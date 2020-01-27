@@ -10,4 +10,4 @@ Achivements
 -I could not fully attemp tas 7 as i had limitations with my retracing abailities of my robot.
 
 
--I used some different code techniques of different GITs for help with the gyroscope calibration. I adapted these in my own work to incoperate them into a working turing algorith for my robot.
+-I used some different code techniques of different GITs for help with the gyroscope calibration. I adapted these in my own work to incoperate them into a working turing algorith for my robot. These included the turnSensor.cpp and turnSensor.h files.
